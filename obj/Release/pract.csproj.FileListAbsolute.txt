@@ -1,0 +1,14 @@
+C:\Users\elale\Desktop\курсовая\pract\pract\bin\Release\pract.exe.config
+C:\Users\elale\Desktop\курсовая\pract\pract\bin\Release\pract.exe.manifest
+C:\Users\elale\Desktop\курсовая\pract\pract\bin\Release\pract.application
+C:\Users\elale\Desktop\курсовая\pract\pract\bin\Release\pract.exe
+C:\Users\elale\Desktop\курсовая\pract\pract\bin\Release\pract.pdb
+C:\Users\elale\Desktop\курсовая\pract\pract\obj\Release\pract.csproj.AssemblyReference.cache
+C:\Users\elale\Desktop\курсовая\pract\pract\obj\Release\pract.Form1.resources
+C:\Users\elale\Desktop\курсовая\pract\pract\obj\Release\pract.Properties.Resources.resources
+C:\Users\elale\Desktop\курсовая\pract\pract\obj\Release\pract.csproj.GenerateResource.cache
+C:\Users\elale\Desktop\курсовая\pract\pract\obj\Release\pract.csproj.CoreCompileInputs.cache
+C:\Users\elale\Desktop\курсовая\pract\pract\obj\Release\pract.exe.manifest
+C:\Users\elale\Desktop\курсовая\pract\pract\obj\Release\pract.application
+C:\Users\elale\Desktop\курсовая\pract\pract\obj\Release\pract.exe
+C:\Users\elale\Desktop\курсовая\pract\pract\obj\Release\pract.pdb
